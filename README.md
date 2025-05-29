@@ -13,7 +13,7 @@ A MadGraph-integrated workflow that computes cross-sections for Higgs–vector b
 
 ### 2. `ATLAS_2101_SRD_Recast.ipynb`
 A recast of the ATLAS search for events with missing transverse energy and b-jets ([arXiv:2101.12527](https://arxiv.org/abs/2101.12527)). This notebook:
-- Processes simulated signal and background events generated via MadGraph/POWHEG, Pythia, and Delphes.
+- Processes simulated signal and background events generated via the usual MadGraph/POWHEG + Pythia + Delphes pipeline. Note that the ttbar background was generated using the hvq model in POWHEG. 
 - Applies a baseline cut-and-count analysis.
 - Constructs three Boosted Decision Trees (BDTs) to enhance signal-background separation.
 
