@@ -1,2 +1,49 @@
 # particle-physics-rep
 Jupyter notebooks written and used for various projects regarding collider studies.
+
+# Particle Physics Notebooks
+
+This repository showcases a collection of Jupyter notebooks developed for projects in collider physics, emphasizing effective field theory analyses, reinterpretation of LHC searches, and machine learning applications for signal-background discrimination.
+
+## 📘 Notebooks Overview
+
+### 1. `higgs-vv-cross-sections.ipynb`
+A MadGraph-integrated workflow that computes cross-sections for Higgs–vector boson processes influenced by specific bosonic operators in the SILH basis. The notebook:
+- Automates event generation using MadGraph.
+- Analyzes the dependence of cross-sections on operator coefficients.
+- Identifies parameter space directions constrained by high-energy lepton collider measurements.
+
+### 2. `ATLAS_2101_SRD_Recast.ipynb`
+A recast of the ATLAS search for events with missing transverse energy and b-jets ([arXiv:2101.12527](https://arxiv.org/abs/2101.12527)). This notebook:
+- Processes simulated signal and background events generated via MadGraph/POWHEG, Pythia, and Delphes.
+- Applies a baseline cut-and-count analysis.
+- Constructs three Boosted Decision Trees (BDTs) to enhance signal-background separation.
+
+### 3. `u1_digitize_plots.ipynb`
+An analysis of resonant U1 leptoquark production cross-sections, comparing theoretical predictions with CMS experimental sensitivities. The notebook:
+- Calculates theoretical cross-sections for U1 leptoquark production.
+- Incorporates CMS sensitivity data.
+- Evaluates the compatibility of theoretical models with experimental constraints.
+
+## 🛠️ Dependencies
+
+To run these notebooks, ensure the following tools and libraries are installed:
+
+- [MadGraph5_aMC@NLO](https://launchpad.net/mg5amcnlo)
+- [Pythia](https://pythia.org/)
+- [Delphes](https://delphes.gitlab.io/)
+- [ROOT](https://root.cern/)
+- Python packages: `numpy`, `matplotlib`, `scikit-learn`, `xgboost`, `uproot`
+
+Please refer to each notebook for specific setup instructions and data requirements.
+
+## 👤 Author
+
+**Arman Korajac**  
+Postdoctoral Researcher in Particle Physics  
+[LinkedIn](https://www.linkedin.com/in/armankorajac/) | [Email](mailto:armankorajac@example.com)
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
