@@ -15,7 +15,7 @@ A MadGraph-integrated workflow that computes cross-sections for Higgs–vector b
 A recast of the ATLAS search for events with missing transverse energy and b-jets ([arXiv:2101.12527](https://arxiv.org/abs/2101.12527)). This notebook:
 - Processes simulated signal and background events generated via the usual MadGraph/POWHEG + Pythia + Delphes pipeline. Note that the ttbar background was generated using the hvq model in POWHEG. 
 - Applies a baseline cut-and-count analysis following the ATLAS search.
-- Constructs three Boosted Decision Trees (BDTs) for each dominant background process to enhance signal-background separation, in accordance to the information given in the PhD thesis [here](https://inspirehep.net/files/1e0c3c7a061e00a13ecab29a73d7ed62).
+- Constructs three Boosted Decision Trees (BDTs) for each dominant background to enhance signal-background separation, in accordance to the information given in the PhD thesis [here](https://inspirehep.net/files/1e0c3c7a061e00a13ecab29a73d7ed62).
 
 ### 3. `u1_digitize_plots.ipynb`
 An analysis of resonant U1 leptoquark production cross-sections, comparing theoretical predictions with relevant CMS experimental sensitivity bounds from ([this search](https://arxiv.org/pdf/2308.06143)). 
