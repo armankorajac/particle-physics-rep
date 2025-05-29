@@ -25,6 +25,11 @@ The notebook:
 - Compares the bounds that are derived through this novel production mechanism with existing bounds from other experiments sensitive to the parameters of the U1 leptoquark.
 - For more information, the accompanying paper is available [via this link](https://link.springer.com/article/10.1140/epjc/s10052-024-12618-8). 
 
+### 4. `ttbar_physlite.ipynb` 
+
+Jupyter notebook to showcase 
+
+
 ## 🛠️ Dependencies
 
 To run these notebooks, ensure the following tools and libraries are installed:
