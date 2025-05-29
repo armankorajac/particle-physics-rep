@@ -37,13 +37,8 @@ To run these notebooks, ensure the following tools and libraries are installed:
 
 Please refer to each notebook for specific setup instructions and data requirements.
 
-## 👤 Author
-
-**Arman Korajac**  
-Postdoctoral Researcher in Particle Physics  
-[LinkedIn](https://www.linkedin.com/in/armankorajac/) | [Email](mailto:armankorajac@example.com)
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 
