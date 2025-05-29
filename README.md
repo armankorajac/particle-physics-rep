@@ -39,7 +39,7 @@ To run these notebooks, ensure the following tools and libraries are installed:
 - [Pythia](https://pythia.org/)
 - [Delphes](https://delphes.gitlab.io/)
 - [ROOT](https://root.cern/)
-- Python packages: `numpy`, `matplotlib`, `scikit-learn`, `pandas`, `awkward`, `uproot`, `regex`.
+- Python packages: `numpy`, `matplotlib`, `scikit-learn`, `pandas`, `seaborn`, `awkward`, `uproot`, `regex`.
 
 Please refer to each notebook for specific setup instructions and data requirements.
 
