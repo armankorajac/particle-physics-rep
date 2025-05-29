@@ -27,7 +27,7 @@ The notebook:
 
 ### 4. `ttbar_physlite.ipynb` 
 
-Jupyter notebook to showcase 
+A Jupyter notebook to showcase how to efficiently extract physically relevant information from PHYSLITE, the default lightweight event format used in ATLAS analyses. It includes basic data cleaning procedures tailored for this format, functions to define physical objects according to the definitions given by ATLAS and derive important kinematical variables. 
 
 
 ## 🛠️ Dependencies
