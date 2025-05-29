@@ -1,7 +1,5 @@
-# particle-physics-rep
-Jupyter notebooks written and used for various projects regarding collider studies.
 
-# Particle Physics Notebooks
+# Particle Physics Notebooks (particle-physics-rep)
 
 This repository showcases a collection of Jupyter notebooks developed for projects in collider physics, emphasizing effective field theory analyses, reinterpretation of LHC searches, and machine learning applications for signal-background discrimination.
 
