@@ -9,7 +9,7 @@ This repository showcases a collection of Jupyter notebooks developed for projec
 A MadGraph-integrated workflow that computes cross-sections for Higgs–vector boson processes influenced by specific bosonic operators in the SILH basis. The notebook:
 - Automates cross-section calculation using MadGraph.
 - Analyzes the dependence of cross-sections on operator coefficients.
-- Identifies parameter space directions constrained by high-energy lepton collider measurements.
+- Identifies parameter space directions constrained by high-energy lepton collider measurements. These processes may enhance the current sensitivity towards these operators and they will be advertised as part of the future lepton colliders programme
 
 ### 2. `ATLAS_2101_SRD_Recast.ipynb`
 A recast of the ATLAS search for events with missing transverse energy and b-jets ([arXiv:2101.12527](https://arxiv.org/abs/2101.12527)). This notebook:
