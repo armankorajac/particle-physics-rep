@@ -38,5 +38,5 @@ Please refer to each notebook for specific setup instructions and data requireme
 
 ## 📄 License
 
-This project is licensed under the MIT License. 
+These projects are licensed under the MIT License. 
 
