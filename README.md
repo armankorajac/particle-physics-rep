@@ -18,7 +18,7 @@ A recast of the ATLAS search for events with missing transverse energy and b-jet
 - Constructs three Boosted Decision Trees (BDTs) for each dominant background to enhance signal-background separation, in accordance to the information given in the PhD thesis [here](https://inspirehep.net/files/1e0c3c7a061e00a13ecab29a73d7ed62).
 
 ### 3. `u1_digitize_plots.ipynb`
-An analysis of resonant U1 leptoquark production cross-sections, comparing theoretical predictions with relevant CMS experimental sensitivity bounds from ([this search](https://arxiv.org/pdf/2308.06143)). 
+An analysis of resonant U1 leptoquark production cross-sections, comparing theoretical predictions with relevant CMS experimental sensitivity bounds from [this search](https://arxiv.org/pdf/2308.06143). 
 The notebook:
 - Calculates theoretical cross-sections for the resonant U1 leptoquark production, using a built POWHEG generator that is available [here](https://github.com/peterkrack/3rd-Lepton-Quark-Fusion).
 - Has incorporated CMS sensitivity data that are found [here](https://www.hepdata.net/record/ins2687527), which are re-derived in the code for the vector leptoquark case.
